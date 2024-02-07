@@ -1,6 +1,6 @@
 ## Training using Kubeflow on EKS
 
-- Create infra using TF 
+- Create EKS infra using TF 
 - Prep data and send to S3
 - Auto serve S3 data using FSx for Lustre file-system
 - Launch training jobs using Helm
